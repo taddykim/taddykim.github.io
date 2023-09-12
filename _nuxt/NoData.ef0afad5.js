@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as e,I as s}from"./entry.a941e244.js";const c={name:"NoData",props:{option:Object}},_=["innerHTML"];function a(r,i,n,p,l,m){return t(),e("div",{class:s(["no_dt",n.option.type]),innerHTML:n.option.html},null,10,_)}const f=o(c,[["render",a]]);export{f as _};
