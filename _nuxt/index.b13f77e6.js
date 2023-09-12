@@ -1,1 +1,0 @@
-import{_ as t,h as e,U as a,o as c}from"./entry.ff5b9463.js";const _={name:"index",data(){return{layout:"guide-layout"}},mounted(){}};function r(s,u,p,m,n,d){const o=a;return c(),e(o,{name:n.layout},null,8,["name"])}const i=t(_,[["render",r]]);export{i as default};
